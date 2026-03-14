@@ -54,7 +54,7 @@ allure serve allure-results
 
 ## Структура проекта
 ```
-selectel-tests/
+Autotests_from_Selectel.ru/
 ├── pages/
 │   ├── base_page.py
 │   ├── main_page.py
