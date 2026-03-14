@@ -1,1 +1,0 @@
-# Autotests_from_Selectel.ru
