@@ -1,5 +1,0 @@
-allure-python-commons
-allure-pytest
-flake8
-pytest~=8.0.0
-selenium
